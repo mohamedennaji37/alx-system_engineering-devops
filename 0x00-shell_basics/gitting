@@ -1,5 +1,4 @@
 #!/bin/bash
-read l
 git add .
-git commit -m "${l}"
+git commit -m "l"
 git push origin master
