@@ -1,2 +1,2 @@
 #!/bin/bash
-chown julien vincent chgrp julien staff 
+chown julien vincent , chgrp julien staff 
